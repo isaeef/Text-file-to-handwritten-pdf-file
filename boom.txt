@@ -1,1 +1,5 @@
-Need For Speed Most Wanted Side Fig
+Process Model: - is a set of related activities that leads to the production of the software. 
+These activities may involve the development of the software from the scratch, or, modifying an existing system.(1.1)
+ Software process models often represent a networked sequence of activities, objects, transformations, and events 
+ that embody strategies for accomplishing software evolution. Such models can be used to develop more precise and formalized descriptions 
+ of software life cycle activities. Their power emerges from their utilization of a sufficiently rich notation, syntax, or semantics,
